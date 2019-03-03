@@ -1,0 +1,1 @@
+To read my blog post, go to https://saf35.github.io/Data-Vis-Blog-Post/.
